@@ -1,0 +1,6 @@
+{
+  "name": "Local AI Platform & Sandbox",
+  "description": "An advanced open-source AI platform featuring browser-based WebGPU inference, local Ollama integration, dynamic RAG document vector indexing, autonomous multi-agent planner, developer sandbox, and AI website builder.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
